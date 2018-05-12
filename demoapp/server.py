@@ -56,4 +56,6 @@ if __name__ == '__main__':
     else:
         server.serve()
 
-# this comment is added by TKHifumi without being aware of the remote difference
+
+# this comment is added by TKHifumi and zqgwang
+# the conflict is manully solved
