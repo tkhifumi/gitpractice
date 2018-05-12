@@ -1,0 +1,2 @@
+This file is only created for git committing purpose, and will be removed
+by the next commit.
